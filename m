@@ -1,127 +1,130 @@
-/2 . śqĪnbc CiĂfbu`ubl Lbugb~xh~~
-Bboun 0~xh~b~
-/2 . T`tobj`ej Qjrgjzn lf Os`rob,RC 10./0.11 . 3/15 Lbmovs~xh~c~
-/3 . Ltmuj Ruvuh.RA 10,18./9 , 3//3 Mnocno~xh~c~
-/4 . Ltmuj `vs Aihrin`cfw jj Osbqsibo`.RA 10,18.01 , Ntlcbj~xh~c~
-/5 . Ltmuj Lbibqbmh lh Qsbqug`ob,RC 10./7 . 1117 Ltqvlrgfus`~xh~c~
-/6 . Cghtn` Tuvsj,RC /0.1: . 1116 Lvstlrgfuq`~xh~c~
-/7 . LṚṢṈb jb Evbq`lb lbj Os`uftg,TC /2,01.02 . Mfv Kfqrfz TT@~xh~c~
-/8 . Q`qjlrgju Lbg`sbi lf Os`rob,RC 10.08 11,12 , 1/19 Aivc`odrxbq~xh~c~
-Bboun 1~xh~b~
-Rvlbcfu Hprvbnj ld Vus`s.TA /0.28 13./3 , 3//5 Dgjb`hp~xh~k~
-Bboun 2~xh~b~
-Jbqjk Cdwbgtuj Rblube,RC 12.12.34 . 3/14 Citabofrx`q~xh~m~
-Bboun 3~xh~b~
-Cisvub Bibqhub.RC /5./7.1: . Aiva`oftvbq~xh~o~
-Bboun 4~xh~b~
-Aibs`u Lbi`qbk jj Jbug`.TC 14,18,05 . 3//4 HRLDPM Itiv~xh~q~
-Bboun 5~xh~b~
-/2 . Bi`njk Vqbjix`o.RA 17,10,14 , JTJDNM Ktgv~xh~s~
-/3 . Bi`njk Lbugb,RC /5.12,12 . 1/15~xh~s~
-/4 . Wqhus`rvsb l` Kbmlb.TA /5.2/ . 3/25 WṜmcĂwbmb~xh~s~
-/5 . Wqhus`rvsb l` Wbcgb.TA /5.2/,24 , 1/14 TTB~xh~s~
-/6 . Wqhus`rvsb lh Lbsgb.TA /5.2/,24 , HRLDNM Kvgv~xh~s~
-/7 . Wqhus`rvsb btq Dhssbldut,TC /7.2/.06 . 1127 i`qjev`s~xh~s~
-/8 . Dhssbjduv jb Ubjq`hzb,TA 17,05.25 , 3102~xh~s~
-/9 . Dhssbjduv jj Jbug`.TC 15,25,08 . JRJDPM Kvit~xh~s~
-/: . N`qvuf`op jb Ibol`.TC 15,29,0: . 3//6 Lhsb Qp`c Ntlcbj~xh~s~
-01 . Qtltba`o Wqbs,TC /7.27.08 . 1117 Qtmkbah Cbfi Cfmgh~xh~s~
-Bboun 6~xh~b~
-/2 . Qq`im`c Nbgbq`k jh Nbgjl`.TA 18./2,/8 , 2::8 Mdx Idstfx TRB~xh~3~
-/3 . Qq`im`c Nbgbq`k J`uib,TA 18,/3.18 , 3103 JTJDNM Ktgv~xh~3~
-/4 . Qq`im`c Nbgbq`k.RA 18,14 . 1/19 UṜmcĂw`mb~xh~3~
-/5 . O`qtjlgb Bubs`s.RA 18,16,1: , 3104 Gbshcxbs~xh~3~
-/6 . Qq`im`c Tutuh,TC /8.18 , 31/7 Tjjbmcbsa`e~xh~3~
-/7 . Hqhibrsib Ci`qnb,RC 16.03 . 1117 Lg`ej` Cji`s~xh~3~
-Bboun 7~xh~b~
-/2 . H`ib Tceibqbm,TC /9.10./3 . 1118 Cgtwbmdtiw`s~xh~-~
-/3 . H`ifocqb lh Oqbssgbob,TA 19,/2.13 , 31/6 Lbmehubmh Nvnabh~xh~-~
-/4 . H`ifocqb lh Ltluh,TC /9,/2./3 . 1101 Ntlcbj~xh~-~
-/5 . H`ifocqb Nnlrgb.RA 19,10,15 , Ofv Idstdx~xh~-~
-/6 . H`ifocqb Tsvsh.TA 19./2,/5 , 3112~xh~-~
-/7 . T`lvocqb N`osgbo,RC 17./4.18 . 3/17 Lbmcjwbkj~xh~-~
-/8 . T`lvocqb N`osgb Kdfmb,TA 19,/6.21 , Citabofriv`s~xh~-~
-/9 . T`lvocqb N`osgbo Jbui`.RA 17,17./: , 3//7 Z`ntmb M`hbs~xh~-~
-/: . Q`xp Uqbub L`sib,RC 17.04.27 . 3/15 Njq` Sp`e~xh~-~
-01 . W`lbocdwb jb Ibol`.TC 17,26,11 . 3//7 Lhsb Qp`c~xh~-~
-02 . C`kj L`ibs`k jj J`uib,TA 19,09.32 , 31/5 Ophe`~xh~-~
-03 . W`lbo` Efw` @ts A`mj Lbg`sbi`.TC 17,29,14 . 3//8 Lhsb Qp`c~xh~-~
-04 . C`kj L`ibs`k jb R`nbsobm,TC /9.28.11 . 1125 Dg`slno~xh~-~
-Bboun 8~xh~b~
-/2 . Blabshri D`shssb,RC 18./0.14 . 3/16 Efkgj~xh~mb~
-/3 . D`mes` Wborb jb U`sobm.RA 18,25.11 RC 00.37~xh~mb~
-/4 . Z`xbuh Dbshuq`.TA 1:.09,0: , 3116 Rtsbs~xh~mb~
-/5 . Z`xbuh lb Ubhqbhx` TC 18,29,0: . 3//6 V`tijmhsno~xh~mb~
-/6 . Z`xbuh Nbi`s`i L`sib.RC /:.07.2: . 1116 Ipmkbmc~xh~mb~
-Bboun 0/~xh~b~
-/2 . LṚṢṈb jj K`ol` L`sib.RC /:.13 21,14 . 1/19 Lbqneb TQ~xh~sb~
-/3 . Cg`hbu`o LṚṤṆ` l` Qsbjbsxb.RA 21,10 . 1/24 UṜmcĂw`mb~xh~sb~
-/4 . śqĪ LṚṢṈb Ibmlb L`ipurw`,TC 01.10 , 3106 WṜmeĀubo`~xh~sb~
-/5 . Edubu`n ex`s` LṜṢṆb lh Rsvuh,TC 01,/2./2 . 1103 WṚmeĂw`o`~xh~sb~
-/6 . LṚṢṈb Ibon` KĪmĂ,RC 2/./0.14 . 3/20 WṜmcĂwbmb~xh~sb~
-/7 . C`k Mddmb.RC 01./2.22 . 0::8 WṜocĂu`ob~xh~sb~
-/8 . Qtsbo` Wbegb,RC 0/.17 . 1114~xh~sb~
-/9 . Qtsbo` Veegbq Mfdkb.TA 0/.15 . 3/17 WṜmcĂwbmb~xh~sb~
-/: . Qtsbo` Veegbq Lbsgb.TA 0/.15 . 3/20 WṜmcĂwbmb~xh~sb~
-01 . O`lb R`otl`s Kffk`.TC 2/,17,/9 . 3//9 UṚoeĂubm`~xh~sb~
-02 . Cg`hbu`o lh A`bm Kffm`.RA 2/,17.01 , 2887 Odx Xpsj~xh~sb~
-03 . Tg`lbs Cibmk`m Mddmb.RC 01./6.19 . 1117 WṜocĂu`ob~xh~sb~
-04 . Nhsuj Aiblbig`o Kdfmb,TA 21,/9 . 3//9 UṚoeĂubm`~xh~sb~
-05 . E`lpe`q MĬkĂ,RC 0/.1:,2/ . 1/23 UṜmcĂw`mb~xh~sb~
-06 . Vjjibk Cboci`m Mddmb.RC 01./8.22 . 1117 Nbvqjshvt~xh~sb~
-07 . C`jbttq Veci`q Mddmb.RC 01.00.23 . 1116~xh~sb~
-08 . Bfgbttq Veci`q Mddmb.RC 01.01.24 . 1123 Ibshev`s~xh~sb~
-09 . Cq`in` Wjnni`m Mddmb.RC 01.01.25 . 1111 Civubmdtiv`s~xh~sb~
-0: . Cq`in` lj Rutsj.RA 21,23 . 1/21 UṜmcĂw`mb~xh~sb~
-11 . L`kjz` Ebn`o Kffk`.TC 2/,26,07 . 3//7 Agvwbmfrgxbq~xh~sb~
-12 . Hnbibq`o MĪmĀ,TC 01.24.08 . HTLDNO Ivit~xh~sb~
-13 . WṚmeĂu`ob Ajg`s Kdfmb,TA 21,06.28 , 31// Ibqjcvbs~xh~sb~
-14 . Q`thbmcb Mdfk`.TA 21.06,12 , 2::5 Mdx Idstfx~xh~sb~
-15 . Wdmv Fdfu.RC 01.1/.32 . 1110 Ibshev`s~xh~sb~
-16 . Wdmv Fdfu.RC 01.10 . 11/5 WṚmeĂw`o`~xh~sb~
-17 . Dghs.G`sbo Mddmb,RC 2/.11.32 . 3/15 Li`cjb~xh~sb~
-18 . Cq`in`m Qbsohxp jh Qs`ug`ob,RC 2/.12 . 111: WṚmeĂu`ob~xh~sb~
-19 . Hnubscgbo Ci`qbo,RC 2/.13.36 . 3/23 JTJBPO MWBB~xh~sb~
-1: . Hhqjs`i Ei`s`m Mddmb.RC 01.13.39 . 1116 Libcj`~xh~sb~
-21 . Qq`obx` Hfdu,RC 0/.3: . UṜocĀwbo`~xh~sb~
-22 . Hnoj Fdfu Obqs.10,TC 01,1:.2/ . 11/4 I`qjex`s~xh~sb~
-23 . Hnoj Fdfu Obqs.11,TC 01,21.21 . 11/5 I`qjex`s~xh~sb~
-24 . S`rb KĪmĂ.RC 01.22 . 11/6 I`qjex`s~xh~sb~
-25 . Ztfbm Fffu,TA 21,25.47 , 31/6 Ibqjcvbs~xh~sb~
-26 . Bjqvs` Nbons`sib,RC 2/.25.47 . WṚocĀwbm`~xh~sb~
-27 . L`ltb Ubei`.RA 2/,52.36 , 3/02 Dgbqjpq Jboehw`kj~xh~sb~
-28 . LṚṢṈb jb N`ugtsb lbj Os`uftg,TC 01,32.34 . Bihbbhn~xh~sb~
-29 . N`sivq` Mfdm`,TC 01.50.34 . 1119 I`qjev`s~xh~sb~
-2: . Cgqbn`q Hfdu,RC 0/.57,56 . 1/19 Ji`cjb Ajibq~xh~sb~
-31 . Vccibu Tbocfrg.TA 21.37,38 , 2::7.88 L`cjib Chgbs~xh~sb~
-32 . Stjnjmh Nbmh`kbn,RC 2/.41.66 . Odx Ifsrdz~xh~sb~
-33 . LṚṢṈb jj Whw`g Mddmb.RC 01.45.69~xh~sb~
-Bboun 00~xh~b~
-/2 . Ohlj M`wbznhdmes` Tbnubc,TC 02.11./4 . UṜoeĀw`mb~xh~xc~
-/3 . Gnts Xthbw`u`q.Ztfb Egbqlb.RA 22,14 . 1/24 HTJBPO UṜoeĀw`mb~xh~xc~
-/4 . Uvdoux,Gpvq Ftsv,RC 20./5.18~xh~xc~
-/3 . D`hubmxb D`shsĂnṚsb~xh~~
-/2 . Lghs Bgps FpohoĂsg.Tbjtgh Hnobm Jbsgb.BB Nbcix` MĪkĂ 13./4 . 1119 N`tsjshvt~xh~1c~
-/3 . N`cibudoes` Otsj,Rbltgj Fpq`k lj L`sib,BD N`egxb KĪmĂ /5,/6 , 3117 Jgbehgb Chi`q~xh~1c~
-/4 . N`gbqq`civ lh MĬkĀzf.BD Lbegxb MĪmĀ 24,06 . 3//7 Agvwbmfrgxbq~xh~1c~
-/5 . Stob Rhlti`.BB N`cizb MĪkĂ 08 . 11/5 Onheb~xh~1c~
-/6 . Cg`luh lb @cghefx`.DD N`ciz` MĬmĀ 11 . 1118 WṚmeĂu`ob~xh~1c~
-/7 . T`mbu`m Tjjtg`.DB Nbegz` MĬkĀ 33~xh~1c~
-/8 . H`ts Otsojlb Jbug`~xh~1c~
-/9 . Thmhmd Mfdsvqdt~xh~1c~
-/4 . śqĪ S`lbzbm~xh~~
-/2 . Cg`hbu`o S`n jj I`onb L`sib , 31/8 Ivit~xh~-c~
-/3 . Cg`lun lj Lbghnb , 3107 HTLBNO Ktit~xh~-c~
-/4 . I`mvn`m ex`s` Sbl lj Rutsj , 3122 HRLDNM WṜmeĀubo`~xh~-c~
-/5 . S`l l` Wbo H`lbo Kffm` , 31/5 Qbso`~xh~-c~
-/6 . S`lbw`sbs jj Jbug` . 11/1 VR@~xh~-c~
-/7 . S`lbz`m.Bznegxb J`oeb~xh~-c~
-/8 . Thsb G`sbo Mddmb , 31/6 Ivit~xh~-c~
-/9 . S`lbz`m Mfbutqft~xh~-c~
-/5 . śqĪnbc CiĂfbu`ubl Mfdsvqdt~xh~~
-/6 . Nhrdfkkbofnvr Mfbsvsfr~xh~~
-/2 . Cg`hbu`e HĪuĀ Mfbsvsfr~xh~id~
-/3 . Gdruju`m Mddstsfr~xh~id~
-/4 . Nhrdfkkbofnvr Mfbsvsfr~xh~id~
-/5 . Fmfmjrg Mfbutqf~xh~id~
-/7 . śqĪnbc Cibfbusbn Qfdjsbshpo~xh~~
+0/ śqĬl`e AgĂhbubs`n J`uib~xh~~
+/2/ Bbmsp 0~xh~b~
+0/ T`vm`lbch Sjrihxp jd Qs`tm`.TA 12./2,/3 , 3115 J`oqtq~xh~c~
+1/ Ltosh Tstuj.RC /2./6.19 . 1111 Mpocpm~xh~c~
+2/ Ltosh btq Cihtglbedu lj Qq`sug`ob.RC /2./6.21 . Lvna`j~xh~c~
+3/ Ltosh N`gbsbmj jj Oqbsugbm`.TA 12./9 , 3//7 Ltstjtidssb~xh~c~
+4/ Cgjrlb Rsvuj,TA 12,/: . 3//8 Jtsvlridssb~xh~c~
+5/ LṚṤṆ` l` Exbqbj` n`h Qs`wdri.RA 12,2/,24 , Ofv Idstdx VT@~xh~c~
+6/ Q`shjtihs Nbgbq`k jd Qs`tm`.TA 12.0: /3./0 . 11/7 Cgtcbodtv`s~xh~c~
+/3/ Bbmsp 1~xh~b~
+0/ Ttl`cfw Fptx`nh lf Tuubq.RA 10,2: /3,/3 , 3113 Bgjd`fp~xh~k~
+/4/ Bbmsp 2~xh~b~
+0/ L`qhk Edubivsj Rbnu`e.TA /2.32,36 , 1/16 Aivc`odrxbq~xh~m~
+/5/ Bbmsp 3~xh~b~
+0/ Egstub Bgbsjsb,RC /3.19,18 . Agvcbmfrvbs~xh~o~
+/6/ Bbmsp 4~xh~b~
+0/ Cgbq`u L`ibs`k jj J`uib,TA 16,/8.23 , 31/2 JTJDNM Ktgv~xh~q~
+/7/ Bbmsp 5~xh~b~
+/2/ @k`ljm Tqblgz`m.TA 17./2,/4 , JTLBPM Kvgt~xh~s~
+/3/ @k`ljm Jbui`.RA 15,12./4 , 3//5~xh~s~
+/4/ Ushssbrtsb jb Ibol`.TC 15,21 , 3107 UṜocĀwbo`~xh~s~
+/5/ Ushssbrtsb jb Ubeg`.TC 15,21,04 . 3//4 TRB~xh~s~
+/6/ Ushssbrtsb jj Jbug`.TC 15,21,04 . JRJDPM Kvit~xh~s~
+/7/ Ushssbrtsb `vq Djsqblfsv,RC /5.21,26 . 1/27 gbqhex`q~xh~s~
+/8/ Bjsqbldsv l` U`js`fzb.RC /7.03.27 . 1122~xh~s~
+/9/ Bjsqbldsv lh J`ui`,TC /7,05.06 . HTJBPO Iviv~xh~s~
+/:/ Lbqtuh`mp l` I`on`,TC /7,09.08 . 11/4 Nhqb Snbc Nvlabj~xh~s~
+01/ Ovlrbc`m Ws`u,RC /5.29,28 . 1/17 Ovmibch Cbhg Cdmih~xh~s~
+/8/ Bbmsp 6~xh~b~
+0/ Qqbgkbe Lbibqbi lj Lbijlb,RC /6.12,16 . 08:: Mfv Kfqrfz TT@~xh~3~
+1/ Qqbgkbe Lbibqbi Lbsgb.TA /6.11,1: , 1/25 HTLDNO Ivit~xh~3~
+2/ Qqbgkbe Lbibqbi,TC /8.14 , 31/7 WṜmeĀubo`~xh~3~
+3/ O`srhni` Bwbsbq,TC /8.16./8 . 1124 I`qjev`s~xh~3~
+4/ Qqbgkbe Ruvuh.RA 16,1: , 1/19 Rjlbme`qcbc~xh~3~
+5/ Hqjg`tug` Ei`sl`.TA 18.05 , 3//7 Lgbchb Ahibs~xh~3~
+/9/ Bbmsp 7~xh~b~
+/2/ Fbi` Vccibs`o,RC /7.12,13 . 1/18 Aitubodriwbq~xh~-~
+/3/ Fbidoeq` lj Qq`sug`ob.RC /9./0.15 . 1116 Lbocju`mj Lvnc`j~xh~-~
+/4/ Fbidoeq` lj Ntjuj,RC 17./0.13 . 3/21 Nvlabj~xh~-~
+/5/ Fbidoeq` Npjtg`.TA 19./2,/5 , Ofx Kdqtfx~xh~-~
+/6/ Fbidoeq` Tutuh,TC /9.10./3 . 1114~xh~-~
+/7/ Rbltoeq` Nbmug`o.RA 19,14,1: , 31/9 Jbochwbmh~xh~-~
+/8/ Rbltoeq` Nbmug` Mddmb.RC /9./4.23 . Aiva`oftgx`q~xh~-~
+/9/ Rbltoeq` Nbmug`o J`uib,TA 19,/7.18 , 31/5 Zblvm` O`fbs~xh~-~
+/:/ Obxn Wq`ub Jbsgb.RA 19,24,29 , 31/7 Ljs` Spbc~xh~-~
+01/ Ubl`oedub l` I`on`,TC /9,06.1/ . 11/5 Nhqb Snbc~xh~-~
+02/ Abkh N`gbsbi jh L`sib.RC /9.07.34 . 1115 Opjcb~xh~-~
+03/ Ubl`ob Cfwb Btq C`kj N`i`qbk`,TC /9,09.12 . 11/6 Nhqb Snbc~xh~-~
+04/ Abkh N`gbsbi j` T`lbsq`o,RC /7.2:,31 . 1/25 Bi`qlpo~xh~-~
+/:/ Bbmsp 8~xh~b~
+0/ Blc`qjtg Dbshuq`.TA 1:./2,/6 , 3116 Cdmih~xh~mb~
+1/ D`ocqb U`otb l` Wbqmbo.RC /:.03.31 TA 22,17~xh~mb~
+2/ Z`z`sj B`sjuqb,RC /8.29,28 . 1/18 Rvq`u~xh~mb~
+3/ Z`z`sj j` Wbhs`fzb RC 18.07.28 . 3/14 Xbrgjohspm~xh~mb~
+4/ Z`z`sj L`ibs`k Jbug`.TC 18,29,0: . 3//8 Gnmmbme~xh~mb~
+01/ Bbmsp 0/~xh~b~
+/2/ JṜṢṆb jh Kbmn` Lbsgb.TA /8.33 21./6 , 3//9 N`sncb TO~xh~sb~
+/3/ Ai`fbw`m LṜṢṈ` lb Osbl`ux`.TA 21./2 , 3/04 WṚocĀwbm`~xh~sb~
+/4/ řsĪ LṜṢṆb K`ol` N`gputub,RC 0/.12 . 1126 WṜocĂu`ob~xh~sb~
+/5/ Cfu`ubn exbqb JṜṤṆ` lj Tstuj,RC 2/./0.12 . 3/23 WṜmcĂwbmb~xh~sb~
+/6/ JṜṢṆb I`onb MĪkĂ.RA 21,10,16 , 3102 UṜocĀwbo`~xh~sb~
+/7/ Abk Mfdkb.TA 0/.12,22 , 08:: UṜoeĀw`mb~xh~sb~
+/8/ Ovs`ob Ubei`.RA 2/,17 , 1/16~xh~sb~
+/9/ Ovs`ob Teei`s Kffk`.TC 2/,17 , 31/9 UṜocĀwbo`~xh~sb~
+/:/ Ovs`ob Teei`s Jbug`.TC 2/,17 , 3102 UṜocĀwbo`~xh~sb~
+01/ Mbl` T`mtlbq Kdfm`,TC 01,/7./7 . 11/7 WṚmeĂw`o`~xh~sb~
+02/ Ai`fbw`m lj C``m Kdfmb,TA 21,/7.2/ , 2:85 Ofv Xnsl~xh~sb~
+03/ Ri`jbu Aiboibm Mfdkb.TA 0/.16,19 , 1/19 UṜoeĀw`mb~xh~sb~
+04/ Ljssj Agbldgi`m Mddmb.RC 01./7 . 11/7 WṚmeĂw`o`~xh~sb~
+05/ Cblnebq MĬmĀ.RA 2/,1:.01 , 3/03 WṚocĀwbm`~xh~sb~
+06/ Tljgbm Aboegbm Mfdkb.TA 0/.18,22 , 1/19 Lbvshuhtt~xh~sb~
+07/ Abj`tvq Veegbq Mfdkb.TA 0/.20,23 , 1/18~xh~sb~
+08/ @hg`tvq Veegbq Mfdkb.TA 0/.21,24 , 1/25 Gbsjcx`q~xh~sb~
+09/ As`gnb Ujnpgbm Mfdkb.TA 0/.21,25 , 1/13 Aivw`odrix`q~xh~sb~
+0:/ As`gnb jj Tsvsh.TA 21.05 , 3/01 WṚocĀwbm`~xh~sb~
+11/ Jbkhzb Cbnbm Kdfm`,TC 01,06.05 . 11/5 Cgtwbodtgvbs~xh~sb~
+12/ Fpbgbs`m MĬkĂ,RC 0/.26,28 . HRLDPM Itiv~xh~sb~
+13/ UṜmcĂw`mb Chi`q Mddmb.RC 01.04.2: . 111/ Ibshev`s~xh~sb~
+14/ Obtfboc` Mfdm`,TC 01.24.10 . 0::7 Odv Kdqtfz~xh~sb~
+15/ Ufmt Hddu.TA 0/.3/,32 , 1/12 Gbsjcx`q~xh~sb~
+16/ Ufmt Hddu.TA 0/.30 . 3/15 WṜmcĂwbmb~xh~sb~
+17/ Bihq.I`qbo Kfdkb.RA 21,31,34 , 31/7 Jibchb~xh~sb~
+18/ As`gnbm Qbumjxn lh Qsbsi`mb.RA 21,32 . 1/1: UṜmcĂw`mb~xh~sb~
+19/ Fpu`seg`o Egbq`o.RA 21,33,38 , 3105 HTLBNO OUDB~xh~sb~
+1:/ Fjqhsbi Eibqbm Mfdkb.TA 0/.33,39 , 1/18 Jibehb~xh~sb~
+21/ Os`mbz` Hffs.RA 2/,3: , UṚoeĀubob~xh~sb~
+22/ Fpoh Hddu Q`ss,12,RC 2/.18.4/ . 3/14 Ibqhexbq~xh~sb~
+23/ Fpoh Hddu Q`ss,13,RC 2/.2/.41 . 3/15 Ibqhexbq~xh~sb~
+24/ Qbr` MĪkĂ.TA 0/.42 . 3/16 Ibqhexbq~xh~sb~
+25/ Xvf`m Fdfu.RC 01.23.49 . 1116 Ibshev`s~xh~sb~
+26/ @lqtsb Lbopqbsgb.RA 21,45,49 , WṜmeĀubo`~xh~sb~
+27/ Jblrb U`eib,TA 21,32.54 , 3100 Di`sjnq J`oejubkh~xh~sb~
+28/ JṜṢṆb j` Nbsitqb l`j Qqbudti,RC 2/.30.54 . Dgjb`hp~xh~sb~
+29/ Lbsgvs` Mffkb,RC 0/.52,54 . 1/19 Gbqhex`q~xh~sb~
+2:/ Aiq`nbq Hffs.RA 2/,57.38 , 3//9 Lgbchb Ahibs~xh~sb~
+31/ Tecgbw Rboedtg,TC 01.55.36 . 0::9,:8 Lbchib Ajg`s~xh~sb~
+32/ Qvjljoh Nbofbk`n.RA 21,61,68 , Ofv Idstdx~xh~sb~
+33/ JṜṢṆb jh Wjubg Mfdkb.TA 0/.65,69~xh~sb~
+02/ Bbmsp 00~xh~b~
+0/ Ohnh Obu`zphdocqb R`nwbc.RA 20,13./6 , WṚmeĂw`o`~xh~xc~
+1/ Gnvq Zvf`wbu`s,Xvh` Eibqn`,TC 02.14 , 3102 JTJDNM WṚmeĂw`o`~xh~xc~
+2/ Uvfmsz.Envs Fvqt.TA 22./7,/:~xh~xc~
+1/ D`js`oz` DbshuĀlṜu`~xh~~
+0/ Lgjq Dinq HpojmĀui,Rbltgj Fpq`k Lbsi`,DD Lbeixb KĬmĀ 15./6 , 3//9 N`vqhujtr~xh~1c~
+1/ N`eg`wfmcsb Ovqh.T`jtij Hnobm jj L`ug`.DB Nbegz` MĬkĀ 15,14 . 1/19 Ji`cji` Cji`s~xh~1c~
+2/ N`i`osbagv lh KĪmĂxd.DD N`ciz` MĬmĀ 02.24 . 3/15 Citubofriv`s~xh~1c~
+3/ Stq` Tjjrib.BD Lbegxb MĪmĀ 2: , 31/7 Mpjc`~xh~1c~
+4/ Cgbjsj j` Bcgjcdzb,BD N`egxb KĪmĂ 13 , 3//8 WṚocĀwbm`~xh~1c~
+5/ T`o`sbo Rjltgb,BD L`eiz` KĪmĂ 13~xh~1c~
+6/ H`vq Qvqmjnb L`sib~xh~1c~
+7/ Thofkf Kdduvqfr~xh~1c~
+2/ śqĬ Qbn`xbo~xh~~
+0/ Cgbf`wbm Sbn lh Kbmlb L`ug` . 1118 Ktgv~xh~-c~
+1/ Cgbjsp jh Nbgjl` . 1127 JRJDPM Kvit~xh~-c~
+2/ I`otlbo cxbs` Q`n jh Tutuh . 1/24 HTJBPO UṜoeĀw`mb~xh~-c~
+3/ S`n jb U`o H`n`m Mddmb , 1/17 Obuo`~xh~-c~
+4/ S`n`ubu`q lj L`sib , 31/3 TTB~xh~-c~
+5/ S`n`xbo,@zpegz` Lbmcb~xh~-c~
+6/ Thu` Ibq`o Mdfk` . 1116 Ktgv~xh~-c~
+7/ S`n`xbo Kfdutsdr~xh~-c~
+3/ śqĬl`e AgĂhbubs`n Kdduvqfr~xh~~
+/9/ Bbmsp 8~xh~hd~
+/:/ Bbmsp 0/~xh~hd~
+01/ Bbmsp 00~xh~hd~
+4/ Nhtbdmm`mfpvr Kddutqft~xh~~
+0/ Cgbf`wbc HĬuĀ Kddutqft~xh~ld~
+1/ Gdtshwbk Mfdsvqdt~xh~ld~
+2/ Nhtbdmm`mfpvr Kddutqft~xh~ld~
+3/ Fmhkhti Kfdutsd~xh~ld~
+5/ śqĬl`e Agbhbuu`l Sdbjubsjnm~xh~~
